@@ -27,7 +27,6 @@ values = [0.01 0.03 0.1 0.3 1 3 10 30];
 error_min = inf;
 
 
-fprintf('chill hommie i am looking for C and sigma, yo values\n');
 for C = values
   for sigma = values
     fprintf('.');
